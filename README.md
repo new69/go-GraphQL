@@ -1,5 +1,5 @@
 # go-GraphQL
-A Study between comunication with GraphQL and go lang
+A Study the cration of API with GraphQL in go lang with [gqlgen](https://gqlgen.com/)
 
 ## Steps
 I presume that you have go lang installed on your machine.
